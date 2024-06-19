@@ -1,0 +1,7 @@
+#lab3-4.py
+for i in range(10):
+    #Print(i)
+    score = int(input("รับค่า %d: "% (i+1)))
+    print(score)
+
+    
