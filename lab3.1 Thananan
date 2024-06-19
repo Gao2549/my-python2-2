@@ -1,0 +1,7 @@
+#lab3-1.py
+score = int(input("ระบบค่าคะแนน :"))
+while score != -1:
+    print(score)
+    score = int(input("ระบบค่าคะแนน :"))
+    
+    
