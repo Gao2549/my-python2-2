@@ -1,0 +1,3 @@
+person = ["somkiat", 35, 172, 74, "cdti"]
+print(person)
+print(person[1:3])
